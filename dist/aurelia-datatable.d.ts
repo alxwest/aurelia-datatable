@@ -3,7 +3,7 @@ import {Config,resolvedView} from 'aurelia-view-manager';
 import {inject} from 'aurelia-dependency-injection';
 import {ViewResources} from 'aurelia-templating';
 import {getLogger} from 'aurelia-logging';
-import {bindable,inject,computedFrom,customElement,bindingMode} from 'aurelia-framework';
+import {bindable, computedFrom,customElement,bindingMode} from 'aurelia-framework';
 import {EntityManager} from 'aurelia-orm';
 import {Router} from 'aurelia-router';
 
